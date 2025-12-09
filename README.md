@@ -70,7 +70,7 @@ The current software version (_beta_ version) requires magnetoresistance data fr
 
 # **4. Fitting methodology description**
 
-For a full description and physical justification of the fitting methodology used in DisTIPy, please refer to Ref. [REF letter].
+For a full description and physical justification of the fitting methodology used in DisTIPy, please refer to Ref. [1].
 
 ---
 
@@ -125,6 +125,6 @@ In this section, the data and fitting results can be exported to .csv files.
 
 # **6. References**
 
-[1] J. P. Maganinho et. al. Disentangling Quantum and Disorder Contributions to Magnetoconductivity in Granular Topological Insulator Films. Submitted to Physical Review Letters. (2025)
+[1] J. P. Maganinho, et. al. Disentangling Quantum and Disorder Contributions to Magnetoconductivity in Granular Topological Insulator Films. Submitted to Physical Review Letters. (2025)
 
 
