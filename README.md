@@ -56,7 +56,7 @@ This release is designed for magneto-resistance measurements, using a 4-point pr
 * **Windows-only** support at this stage. Linus and macOS versions will be released in future updates.
 * Some antivirus tools may flag PyInstaller executables; if this occurs, add the folder to your trusted locations.
 
-##
+
 
 
 ---
