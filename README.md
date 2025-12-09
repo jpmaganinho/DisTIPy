@@ -45,7 +45,7 @@ This release is designed for magneto-resistance measurements, using a 4-point pr
 
 ### Installation
 
-1. Download the provided **DisTIPy-beta** folder containing the compiled `DisTIPy-beta.exe` file.
+1. Download the 'Source code' zip file provided in **DisTIPy-beta version** release to have access to the most updated **DisTIPy** version.
 2. Extract the folder to any directory of your choice.
 3. Ensure the internal folder structure remains unchanged.
 4. Launch the interface by double‑clicking the `DisTIPy-beta.exe` file.
