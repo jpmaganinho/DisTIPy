@@ -4,3 +4,4 @@
 # Allow README and .gitignore
 !.gitignore
 !README.md
+!DisTIPy-beta.zip
