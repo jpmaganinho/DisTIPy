@@ -3,7 +3,7 @@
 ---
 
 
-![Interface Screenshot](Interface example.png)
+![Interface Screenshot](Interface%20example.png)
 
 
 # **Table of Contents**
