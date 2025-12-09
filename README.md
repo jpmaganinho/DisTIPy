@@ -1,10 +1,9 @@
 # DisTIPy
 
----
-
 
 ![Interface Screenshot](Interface%20example.png)
 
+---
 
 # **Table of Contents**
 
